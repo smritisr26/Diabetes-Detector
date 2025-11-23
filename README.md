@@ -87,7 +87,7 @@ Full project documentation is included as:
 ---
 
 ## 🙌 Author
-Smriti — for Semester Project (Build Your Own Project)
+Samriti — for Semester Project (Build Your Own Project)
 
 ---
 
